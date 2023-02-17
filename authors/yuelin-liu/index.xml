@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuelin Liu | Weipeng</title>
+    <link>https://weipengmo.github.io/authors/yuelin-liu/</link>
+      <atom:link href="https://weipengmo.github.io/authors/yuelin-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuelin Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://weipengmo.github.io/media/icon_hubc9cb4cc0bdc761ade9c4cb60858dae8_70724_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuelin Liu</title>
+      <link>https://weipengmo.github.io/authors/yuelin-liu/</link>
+    </image>
+    
+    <item>
+      <title>Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing</title>
+      <link>https://weipengmo.github.io/publication/mo2021landscape/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://weipengmo.github.io/publication/mo2021landscape/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

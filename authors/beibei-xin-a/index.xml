@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beibei Xin a | Weipeng</title>
+    <link>https://weipengmo.github.io/authors/beibei-xin-a/</link>
+      <atom:link href="https://weipengmo.github.io/authors/beibei-xin-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beibei Xin a</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Aug 2021 00:11:28 +0800</lastBuildDate>
+    <image>
+      <url>https://weipengmo.github.io/media/icon_hubc9cb4cc0bdc761ade9c4cb60858dae8_70724_512x512_fill_lanczos_center_3.png</url>
+      <title>Beibei Xin a</title>
+      <link>https://weipengmo.github.io/authors/beibei-xin-a/</link>
+    </image>
+    
+    <item>
+      <title>HITAC-seq enables high-throughput cost-effective sequencing of plasmids and DNA fragments with identity</title>
+      <link>https://weipengmo.github.io/publication/gao2021hitac/</link>
+      <pubDate>Sat, 21 Aug 2021 00:11:28 +0800</pubDate>
+      <guid>https://weipengmo.github.io/publication/gao2021hitac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

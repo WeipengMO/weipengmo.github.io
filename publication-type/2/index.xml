@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Weipeng</title>
+    <link>https://weipengmo.github.io/publication-type/2/</link>
+      <atom:link href="https://weipengmo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 23:56:29 +0800</lastBuildDate>
+    <image>
+      <url>https://weipengmo.github.io/media/icon_hubc9cb4cc0bdc761ade9c4cb60858dae8_70724_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://weipengmo.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>An atlas of plant full-length RNA reveals tissue-specific and monocots--dicots conserved regulation of poly (A) tail length</title>
+      <link>https://weipengmo.github.io/publication/jia2022atlas/</link>
+      <pubDate>Thu, 18 Aug 2022 23:56:29 +0800</pubDate>
+      <guid>https://weipengmo.github.io/publication/jia2022atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pore-C simultaneously captures genome-wide multi-way chromatin interaction and associated DNA methylation status in Arabidopsis</title>
+      <link>https://weipengmo.github.io/publication/li2022pore/</link>
+      <pubDate>Tue, 22 Mar 2022 00:06:45 +0800</pubDate>
+      <guid>https://weipengmo.github.io/publication/li2022pore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing</title>
+      <link>https://weipengmo.github.io/publication/mo2021landscape/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://weipengmo.github.io/publication/mo2021landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HITAC-seq enables high-throughput cost-effective sequencing of plasmids and DNA fragments with identity</title>
+      <link>https://weipengmo.github.io/publication/gao2021hitac/</link>
+      <pubDate>Sat, 21 Aug 2021 00:11:28 +0800</pubDate>
+      <guid>https://weipengmo.github.io/publication/gao2021hitac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLEP-seq: simultaneous detection of RNA polymerase II position, splicing status, polyadenylation site and poly (A) tail length at genome-wide scale by single-molecule nascent RNA sequencing</title>
+      <link>https://weipengmo.github.io/publication/long2021flep/</link>
+      <pubDate>Fri, 30 Jul 2021 23:40:27 +0800</pubDate>
+      <guid>https://weipengmo.github.io/publication/long2021flep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlsnRNA-seq: protoplasting-free full-length single-nucleus RNA profiling in plants</title>
+      <link>https://weipengmo.github.io/publication/long2021flsnrna/</link>
+      <pubDate>Fri, 19 Feb 2021 00:18:14 +0800</pubDate>
+      <guid>https://weipengmo.github.io/publication/long2021flsnrna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

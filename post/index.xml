@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Weipeng</title>
+    <link>https://weipengmo.github.io/post/</link>
+      <atom:link href="https://weipengmo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://weipengmo.github.io/media/icon_hubc9cb4cc0bdc761ade9c4cb60858dae8_70724_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://weipengmo.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>
